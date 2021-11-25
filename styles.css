@@ -1,0 +1,28 @@
+* {
+	box-sizing: border-box;
+}
+body {
+  font-weight: bold;
+	color: #6e859c;
+  padding: 0px;
+  margin: 0px;
+	background: #e8e9e9;
+}
+
+img {
+    max-width: 200px;
+}
+
+.gallery {
+	margin: 100px auto;
+}
+
+input[type=search]{
+  text-align: center;
+  width: 700px;
+  height: 60px;
+  padding: 6px;
+  margin-top: 47px;
+  border-style: ridge;
+  font-size: 17px;
+}
