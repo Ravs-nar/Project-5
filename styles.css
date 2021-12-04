@@ -11,10 +11,13 @@ body {
 
 img {
     max-width: 200px;
+    height: 200px;
+    
 }
 
 .gallery {
-	margin: 100px auto;
+	margin: 50px auto;
+  margin-bottom: 0px;
 }
 
 input[type=search]{
@@ -23,6 +26,6 @@ input[type=search]{
   height: 60px;
   padding: 6px;
   margin-top: 47px;
-  border-style: ridge;
+  
   font-size: 17px;
 }
